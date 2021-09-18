@@ -2,7 +2,7 @@
 - Nicke name @LeeCrey, Khalu
 - 👀 I’m interested in web deveopment, and android app dev
 - 🌱 I’m currently learning android app, and web dev
-- 💞️ I’m looking to collaborate on sinatra, react app projects
+- 💞️ I’m looking to collaborate on sinatra, Ruby on Rails, and Ruby related projects
 - 📫 How to reach me? t.me/lee_crey
 
 <!---
