@@ -21,6 +21,8 @@
 
 ![Redis db](https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg)
 
+![PG](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png)
+
 # Favourite langauges
 
 ![Ruby lang](https://cdn.icon-icons.com/icons2/2699/PNG/512/ruby_lang_horizontal_logo_icon_168854.png)
