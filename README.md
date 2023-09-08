@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning android app dev.
 - I am fullstack developer(Ruby on Rails stack).
 - 💞️ I’m looking to collaborate on Sinatra, Ruby on Rails, and Ruby related projects
-- 📫 How to reach me? t.me/lee_crey
+- 📫 How to reach me? t.me/crey_lee or Instra @lee_crey_116
 
 
 ![](https://komarev.com/ghpvc/?username=LeeCrey)
