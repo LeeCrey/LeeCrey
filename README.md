@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Solomon Boloshe
 - Nicke name @LeeCrey, Lee, or Khalu
-- 👀 I’m interested in web deveopment.
-- 🌱 I’m currently learning android app dev.
+- 👀 I’m interested in web, and Android application development.
 - I am fullstack developer(Ruby on Rails stack).
-- 💞️ I’m looking to collaborate on Sinatra, Ruby on Rails, and Ruby related projects
+- 💞️ I’m looking to collaborate on Sinatra, Ruby on Rails, Java, Android, and related projects
 - 📫 How to reach me? t.me/crey_lee or Instra @lee_crey_116
 
 
