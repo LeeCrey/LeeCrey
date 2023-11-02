@@ -1,15 +1,22 @@
-- 👋 Hi, I’m Solomon Boloshe
-- Nicke name @LeeCrey, Lee, or Khalu
+
+
+<h1 align="center">👋 Hello, I’m Solomon Boloshe</h1>
+ 
+<h3 align="center">Android And RoR Developer From Ethiopia </h3>
+
 - 👀 I’m interested in web, and Android application development.
 - I am fullstack developer(Ruby on Rails stack).
 - 💞️ I’m looking to collaborate on Sinatra, Ruby on Rails, Java, Android, and related projects
 - 📫 How to reach me? t.me/crey_lee or Instra @lee_crey_116
 
 
-![](https://komarev.com/ghpvc/?username=LeeCrey)
 
-
-![Ruby lang](https://cdn.icon-icons.com/icons2/2699/PNG/512/ruby_lang_horizontal_logo_icon_168854.png)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeeCrey" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeeCrey&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 <!---
