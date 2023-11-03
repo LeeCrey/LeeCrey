@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Solomon Boloshe</h1>
 <h3 align="center">A passionate Android And Ruby on Rails developer from Ethiopia</h3>
 
-<image align="center" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/221500414/original/64887294b35f2e64c60a393ddeaf5384c144c038/develop-a-full-stack-website-for-you-using-ruby-on-rails.png">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leecrey&label=Profile%20views&color=0e75b6&style=flat" alt="leecrey" /> </p>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leecrey" alt="leecrey" /></a> </p>
 
@@ -21,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/profile.php?id=100092644485784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100092644485784" height="30" width="40" /></a>
 <a href="https://instagram.com/lee_crey_116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lee_crey_116" height="30" width="40" /></a>
 </p>
 
@@ -33,7 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leecrey&" alt="leecrey" /></p>
 
-<!---
-LeeCrey/LeeCrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
