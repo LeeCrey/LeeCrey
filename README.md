@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leecrey&label=Profile%20views&color=0e75b6&style=flat" alt="leecrey" /> </p>
 
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfaiIp6OqCwMI_ooDXAyqwMkMtfP90dydq5SYk8gCeKsZFCChTEFuXPgOs10vgL8NK1M&usqp=CAU" />
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Ruby, Ruby on Rails, Java and Android**
