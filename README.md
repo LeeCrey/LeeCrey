@@ -11,9 +11,11 @@
 - 👯 I’m looking to collaborate on **Ruby, Ruby on Rails, Java, Kotlin and Android**
 
 - 📫 How to reach me **solomonboloshe11x@gmail.com**
+  If you have Telegram, you can [message](t.me/lee_crey) directly.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UqoaeJXR90FKep7RgT8X5a1zsmaJF1tl/view?usp=drive_link](https://drive.google.com/file/d/1UqoaeJXR90FKep7RgT8X5a1zsmaJF1tl/view?usp=drive_link)
 
+</br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leecrey" alt="leecrey" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
